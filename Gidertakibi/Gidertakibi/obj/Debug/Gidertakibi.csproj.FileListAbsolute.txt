@@ -1,0 +1,7 @@
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\obj\Debug\Gidertakibi.csproj.AssemblyReference.cache
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\obj\Debug\Gidertakibi.csproj.CoreCompileInputs.cache
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\bin\Debug\Gidertakibi.exe.config
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\bin\Debug\Gidertakibi.exe
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\bin\Debug\Gidertakibi.pdb
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\obj\Debug\Gidertakibi.exe
+D:\ISYAZILIM\Gidertakibi\Gidertakibi\obj\Debug\Gidertakibi.pdb
